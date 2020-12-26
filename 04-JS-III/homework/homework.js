@@ -120,6 +120,7 @@ function multiplicarArgumentos() {
   return total
 }
 
+// MarcoBertolino
 // No modificar nada debajo de esta línea
 // --------------------------------
 
